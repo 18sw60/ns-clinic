@@ -1,0 +1,2 @@
+import {PageShell,Hero,Popular,Intro,CategoryCards,SectionHead,Feature,Results,Reviews,Location,CTA} from './clinic-ui';
+export default function Home(){return <PageShell><Hero/><Popular/><Intro/><section className="section wrap"><SectionHead label="A TREATMENT PLAN THAT STARTS WITH YOU" title="Explore Our Treatment Collections"/><CategoryCards/></section><Feature/><Feature skin/><Results preview/><Reviews preview/><Location/><CTA/></PageShell>}
