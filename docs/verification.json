@@ -1,0 +1,644 @@
+{
+  "checkedAt": "2026-10-08T16:38:32.038Z",
+  "base": "http://127.0.0.1:5173",
+  "routes": [
+    {
+      "route": "/",
+      "title": "Aesthetics & Skin Clinic Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 1371,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/treatments",
+      "title": "Aesthetic & Skin Treatments Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 2940,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/facial-aesthetics",
+      "title": "Facial Aesthetics Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 1340,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/skin-treatments",
+      "title": "Skin Treatments & Skin Boosters Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 1333,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/hifu-advanced-skin",
+      "title": "HIFU & Skin Tightening Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 917,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/body-contouring",
+      "title": "Body Contouring & Fat Dissolving Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 937,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/laser-treatments",
+      "title": "Laser Treatments Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 781,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/beauty",
+      "title": "Lashes, Brows & Beauty Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 1321,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/lip-fillers-leeds",
+      "title": "Lip Fillers Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 1115,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/results",
+      "title": "Treatment Gallery & Results Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 393,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "title": "About NS Clinic | Aesthetics Clinic Leeds",
+      "h1Count": 1,
+      "words": 685,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/reviews",
+      "title": "NS Clinic Reviews | Aesthetics Clinic Leeds",
+      "h1Count": 1,
+      "words": 302,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/prices",
+      "title": "Treatment Prices & Offers Leeds | NS Clinic",
+      "h1Count": 1,
+      "words": 255,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/areas",
+      "title": "Aesthetics Clinic Stanningley & Pudsey | NS Clinic",
+      "h1Count": 1,
+      "words": 481,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/contact",
+      "title": "Contact NS Clinic | Stanningley, Leeds",
+      "h1Count": 1,
+      "words": 433,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/privacy",
+      "title": "Privacy | NS Clinic",
+      "h1Count": 1,
+      "words": 161,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/cookies",
+      "title": "Cookies | NS Clinic",
+      "h1Count": 1,
+      "words": 129,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/terms",
+      "title": "Terms | NS Clinic",
+      "h1Count": 1,
+      "words": 143,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "route": "/treatment-disclaimer",
+      "title": "Treatment Information | NS Clinic",
+      "h1Count": 1,
+      "words": 130,
+      "widths": [
+        {
+          "width": 375,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "width": 430,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "overflow": false
+        },
+        {
+          "width": 1024,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "overflow": false
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "consoleErrors": [
+    {
+      "route": "http://127.0.0.1:5173/missing-page",
+      "message": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "location": {
+        "url": "http://127.0.0.1:5173/missing-page",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      }
+    }
+  ],
+  "missingAssets": [
+    {
+      "url": "http://127.0.0.1:5173/missing-page",
+      "status": 404
+    }
+  ],
+  "checks": [
+    "Category filters, variant search and empty-search reset",
+    "Accessible FAQ opens and exposes its answer",
+    "Review carousel advances to authentic attributed feedback",
+    "Portfolio category filtering and keyboard-dismissable photo dialog",
+    "Treatment preselection, phone validation, WhatsApp draft and stale-draft reset; no message sent",
+    "Mobile navigation opens, follows a route and closes",
+    "Desktop treatment menu and client route navigation",
+    "Custom missing-page recovery"
+  ]
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "route": "/",
+    "violations": [],
+    "passes": 26
+  },
+  {
+    "route": "/treatments",
+    "violations": [],
+    "passes": 23
+  },
+  {
+    "route": "/facial-aesthetics",
+    "violations": [],
+    "passes": 25
+  },
+  {
+    "route": "/skin-treatments",
+    "violations": [],
+    "passes": 25
+  },
+  {
+    "route": "/hifu-advanced-skin",
+    "violations": [],
+    "passes": 25
+  },
+  {
+    "route": "/body-contouring",
+    "violations": [],
+    "passes": 25
+  },
+  {
+    "route": "/laser-treatments",
+    "violations": [],
+    "passes": 25
+  },
+  {
+    "route": "/beauty",
+    "violations": [],
+    "passes": 25
+  },
+  {
+    "route": "/lip-fillers-leeds",
+    "violations": [],
+    "passes": 25
+  },
+  {
+    "route": "/results",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "route": "/about",
+    "violations": [],
+    "passes": 24
+  },
+  {
+    "route": "/reviews",
+    "violations": [],
+    "passes": 21
+  },
+  {
+    "route": "/prices",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "route": "/areas",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "route": "/contact",
+    "violations": [],
+    "passes": 24
+  },
+  {
+    "route": "/privacy",
+    "violations": [],
+    "passes": 17
+  },
+  {
+    "route": "/cookies",
+    "violations": [],
+    "passes": 17
+  },
+  {
+    "route": "/terms",
+    "violations": [],
+    "passes": 17
+  },
+  {
+    "route": "/treatment-disclaimer",
+    "violations": [],
+    "passes": 17
+  }
+]
