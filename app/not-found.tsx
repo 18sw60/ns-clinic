@@ -1,0 +1,2 @@
+import {PageShell} from './clinic-ui';
+export default function NotFound(){return <PageShell><section className="section wrap"><div className="eyebrow">NS CLINIC</div><h1>Page not found</h1><p style={{marginTop:25}}>The page you’re looking for is unavailable. Browse our treatment collections or contact the clinic.</p><div className="actions"><a className="btn" href="/treatments">Explore Treatments</a><a className="btn outline" href="/contact">Contact NS Clinic</a></div></section></PageShell>}
