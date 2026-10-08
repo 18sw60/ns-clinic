@@ -30,7 +30,7 @@ export const business = {
     "https://www.google.com/maps?q=NS+Clinic,+Swinnow+Crescent,+Leeds+LS28+6NZ&output=embed",
   practitioner: { name: "Rosa", title: "Your practitioner" },
   openingHours: "Contact us for current appointment availability",
-  siteURL: "https://ns-clinic-leeds-demo.saqib-baloch.chatgpt.site",
+  siteURL: "https://ns-clinic-bradford.netlify.app",
   publicLaunch: false,
 };
 export const BOOKING_URL = business.bookingURL;
